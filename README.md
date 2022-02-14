@@ -11,8 +11,7 @@ Mi primer repositorio
 **_Ambos_**
 
 > Cita
-> Descripcion de cita 
+> Descripcion de Cita
 
-'''
 Comandos
-'''
+
